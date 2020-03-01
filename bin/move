@@ -13,4 +13,3 @@ input_to_index(user_input)
 
 move = gets.strip
 move(board, user_input, players_character)
-board
