@@ -13,5 +13,5 @@ end
 
 def move (board, user_input, players_character = "X" )
   players_character = board(user_input)
-  puts "#{players_character}"
+  
 end
